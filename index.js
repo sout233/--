@@ -1,0 +1,1 @@
+window.location.href = "https://www.bilibili.com/video/BV1GJ411x7h7";
